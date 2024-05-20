@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gjz07o3K+i94qLqIFXh9UI8rkBcIcrwoYCME6LBVER+F6Ib4nKDyB00JJR4SR47XjRamS0paSefWeyFiiB5zwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xamidullo\\source\\repos\\QuizGame\\QuizGame\\QuizGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xamidullo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Xamidullo\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Xamidullo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

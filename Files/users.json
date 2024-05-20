@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Muhammad",
+    "LastName": "Xamberdiyev",
+    "PhoneNumber": "+998932533803",
+    "UserName": "xamberdiyev",
+    "Password": "12345678",
+    "trueAnswers": 0,
+    "falseAnswers": 0
+  }
+]

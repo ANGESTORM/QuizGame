@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "SubjectId": 1,
+    "Name": "3+3",
+    "Answers": {
+      "4": false,
+      "6": true,
+      "1": false
+    }
+  },
+  {
+    "Id": 2,
+    "SubjectId": 1,
+    "Name": "8*8",
+    "Answers": {
+      "64": true,
+      "5": false,
+      "10": false
+    }
+  },
+  {
+    "Id": 3,
+    "SubjectId": 2,
+    "Name": "Who is Newton?",
+    "Answers": {
+      "Physic": true,
+      "Television": false,
+      "Apple": false
+    }
+  },
+  {
+    "Id": 4,
+    "SubjectId": 1,
+    "Name": "sinx / cosx = ?",
+    "Answers": {
+      "1": false,
+      "ctgx": false,
+      "tgx": true
+    }
+  },
+  {
+    "Id": 5,
+    "SubjectId": 1,
+    "Name": "sin^2x + cos^2x = ?",
+    "Answers": {
+      "0": false,
+      "1": true,
+      "none": false
+    }
+  },
+  {
+    "Id": 6,
+    "SubjectId": 3,
+    "Name": "sca",
+    "Answers": {
+      "  cs": true,
+      "asf": false,
+      "  false": false
+    }
+  }
+]
